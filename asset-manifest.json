@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pratap54321/react-deploye.git/static/css/main.d1b05096.chunk.css",
+    "main.js": "/pratap54321/react-deploye.git/static/js/main.b7a7480c.chunk.js",
+    "main.js.map": "/pratap54321/react-deploye.git/static/js/main.b7a7480c.chunk.js.map",
+    "runtime-main.js": "/pratap54321/react-deploye.git/static/js/runtime-main.0781363b.js",
+    "runtime-main.js.map": "/pratap54321/react-deploye.git/static/js/runtime-main.0781363b.js.map",
+    "static/js/2.a1c7a29e.chunk.js": "/pratap54321/react-deploye.git/static/js/2.a1c7a29e.chunk.js",
+    "static/js/2.a1c7a29e.chunk.js.map": "/pratap54321/react-deploye.git/static/js/2.a1c7a29e.chunk.js.map",
+    "index.html": "/pratap54321/react-deploye.git/index.html",
+    "precache-manifest.de59bd042b887509e4c5c2f0a4de3c7a.js": "/pratap54321/react-deploye.git/precache-manifest.de59bd042b887509e4c5c2f0a4de3c7a.js",
+    "service-worker.js": "/pratap54321/react-deploye.git/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/pratap54321/react-deploye.git/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.a1c7a29e.chunk.js.LICENSE.txt": "/pratap54321/react-deploye.git/static/js/2.a1c7a29e.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/pratap54321/react-deploye.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0781363b.js",
+    "static/js/2.a1c7a29e.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.b7a7480c.chunk.js"
+  ]
+}
